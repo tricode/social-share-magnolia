@@ -15,8 +15,6 @@ Icons will only be rendered for those services that were checked in the configur
 No other configuration is necessary!
 
 ## Usage
-> [Provide details of how a developer can make the component template available to content authors. This can include any special instructions about webresources or availability. This could include instructions on 3rd party dependencies such as jquery.
-Describe how a template can be configured with parameters if applicable.]
 
 Make the component available to authors, and include the files in `webresources` on your pages using standard magnolia techniques.
 
@@ -37,6 +35,7 @@ Search the docs for `sharing light modules` for details on how to share and use 
 
 
 ## Contribute to the Magnolia component ecosystem
+
 It's easy to create components for Magnolia and share them on github and npm. I invite you to do so and join the community. Let's stop wasting time by developing the same thing again and again, rather let's help each other out by sharing our work and create a rich library of components.
 
 Just add `magnolia-light-module` as a keyword to npm's package.json to make them easy to find and use on npm.
@@ -45,7 +44,7 @@ Just add `magnolia-light-module` as a keyword to npm's package.json to make them
 
 MIT
 
-## Contributors
+## Author
 
 Tricode, http://www.tricode.nl
 
