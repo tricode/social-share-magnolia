@@ -1,0 +1,23 @@
+{
+  "name": "social-share-magnolia",
+  "version": "1.0.0",
+  "description": "Simple Social Sharing component for Magnolia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tricode/social-share-magnolia.git"
+  },
+  "keywords": [
+    "magnolia-light-module",
+    "magnolia-component"
+  ],
+  "author": "Martijn Kooijman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tricode/social-share-magnolia/issues"
+  },
+  "homepage": "https://github.com/tricode/social-share-magnolia#readme"
+}

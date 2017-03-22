@@ -1,0 +1,44 @@
+.social-share {
+    margin-top: 10px;
+}
+
+.social-share.social-icon-container {
+    min-height: 16px;
+}
+
+.social-share .social-icon {
+    margin-right: 10px;
+}
+
+.social-icon.facebook {
+    width: 16px;
+    height: 16px;
+    display: block;
+    float: left;
+    margin-left: 10px;
+    background-image: url('../img/facebook.svg');
+    background-position: left top;
+    background-size: contain;
+}
+
+.social-icon.twitter {
+    width: 16px;
+    height: 16px;
+    display: block;
+    float: left;
+    margin-left: 10px;
+    background-image: url('../img/twitter.svg');
+    background-position: left top;
+    background-size: contain;
+}
+
+.social-icon.googlePlus {
+    width: 16px;
+    height: 16px;
+    display: block;
+    float: left;
+    margin-left: 10px;
+    background-image: url('../img/google_plus.svg');
+    background-position: left top;
+    background-size: contain;
+}

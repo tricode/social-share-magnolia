@@ -1,0 +1,3 @@
+dialog: social-share-magnolia:components/socialShare
+renderType: freemarker
+templateScript: /social-share-magnolia/templates/components/socialShare.ftl
