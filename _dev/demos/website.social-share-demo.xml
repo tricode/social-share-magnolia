@@ -17,6 +17,9 @@
             <sv:property sv:name="jcr:primaryType" sv:type="Name">
                 <sv:value>mgnl:component</sv:value>
             </sv:property>
+            <sv:property sv:name="mgnl:template" sv:type="String">
+                <sv:value>social-share-magnolia:components/socialShare</sv:value>
+            </sv:property>
             <sv:property sv:name="facebook" sv:type="Boolean">
                 <sv:value>true</sv:value>
             </sv:property>
