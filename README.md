@@ -18,13 +18,13 @@ No other configuration is necessary!
 
 Make the component available to authors, and include the files in `webresources` on your pages using standard magnolia techniques.
 
-(To make this component available on the mtk basic page, you could use the decoration included in `_dev/decorations`.)
+(To make this component available on the mtk basic page, you could use the decoration included in <https://github.com/tricode/social-share-magnolia>`/_dev/decorations`.)
 
-Also, don't forget to configure the value of 'defaultBaseUrl' in Magnolia's Configuration App, under `/server/defaultBaseUrl`. It is used to build the complete external link to the page on whic the component is placed.
+Also, don't forget to configure the value of 'defaultBaseUrl' in Magnolia's Configuration App, under `/server/defaultBaseUrl`. It is used to build the complete external link to the page on which the component is placed.
 
 ## Demo
 
-To see a page demonstrating this component, open the Pages app in Magnolia AdminCentral and import the file in `_dev/demos`. (Import it directly at the root of the tree to see an example of the included css styling.)
+To see a page demonstrating this component, open the Pages app in Magnolia AdminCentral and import the file in <https://github.com/tricode/social-share-magnolia>`/_dev/demos`. (Import it directly at the root of the tree to see an example of the included css styling.)
 
 ## Information on Magnolia CMS
 This directory is a Magnolia 'light module'.
